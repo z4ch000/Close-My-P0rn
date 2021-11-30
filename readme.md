@@ -11,4 +11,3 @@ Edge
 
 
 Developed By Zachary Park
-[v0.9]
